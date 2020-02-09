@@ -6,10 +6,21 @@
     <description>Recent content on ほっとぴぴ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp-ja</language>
-    <lastBuildDate>Sun, 09 Feb 2020 14:32:19 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2020 00:22:06 +0900</lastBuildDate>
     
 	<atom:link href="https://hotpipi.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>じゃんけんで勝ったら一方的にボコるゲーム</title>
+      <link>https://hotpipi.com/post/20200210/</link>
+      <pubDate>Mon, 10 Feb 2020 00:22:06 +0900</pubDate>
+      
+      <guid>https://hotpipi.com/post/20200210/</guid>
+      <description>こんにちは。ななつきです。
+今日は以下二つを実装しました。
+ プレイヤー名の入力 先攻・後攻をじゃんけんで決定する  その結果。 じゃんけんで勝ったら一方的にボコるゲーム が生み出されてしまいました。</description>
+    </item>
     
     <item>
       <title>ブログはじめました</title>
