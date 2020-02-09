@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ほっとぴぴ</title>
-    <link>nanatsukin.github.io/</link>
+    <link>https://hotpipi.com/</link>
     <description>Recent content on ほっとぴぴ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp-ja</language>
     <lastBuildDate>Sun, 09 Feb 2020 14:32:19 +0900</lastBuildDate>
     
-	<atom:link href="nanatsukin.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hotpipi.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ブログはじめました</title>
-      <link>nanatsukin.github.io/post/hello/</link>
+      <link>https://hotpipi.com/post/hello/</link>
       <pubDate>Sun, 09 Feb 2020 14:32:19 +0900</pubDate>
       
-      <guid>nanatsukin.github.io/post/hello/</guid>
+      <guid>https://hotpipi.com/post/hello/</guid>
       <description>はじめまして。ななつきです。
 最近、Flutterでアプリを作ったり、Unityでゲームを作ったりしています。 日々何をしてきたかの記録をつけたくなったのでブログを始めることにしました。
 しばらく作っていくもの カード（？）対戦ゲームを作っていきます。</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>アプリ一覧</title>
-      <link>nanatsukin.github.io/app/</link>
+      <link>https://hotpipi.com/app/</link>
       <pubDate>Sun, 09 Feb 2020 05:11:25 +0900</pubDate>
       
-      <guid>nanatsukin.github.io/app/</guid>
+      <guid>https://hotpipi.com/app/</guid>
       <description>あと、いくつ 食材の在庫をシンプルに管理！
 食材を買い忘れたり、期限を切らしがち。食材を管理したいけど一つ一つ入力するのは少し面倒。そんなときは「あと、いくつ」をお使いください。一度設定するだけで、食材の補充や消費 、買い物リストへの追加をワンボタンで行えます。
   </description>
