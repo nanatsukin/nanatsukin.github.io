@@ -1,0 +1,75 @@
+body {
+  font-family: Quicksand, 游ゴシック体, "Yu Gothic", YuGothic,
+    "ヒラギノ角ゴシック Pro", "Hiragino Kaku Gothic Pro", メイリオ, Meiryo,
+    Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+  background-color: #f0ebeb;
+}
+
+.blog-masthead {
+  box-shadow: none;
+  color: #999;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 1rem;
+}
+
+.blog-title {
+  color: #fb7d79;
+  font-size: 2rem;
+}
+
+.blog-description {
+  font-size: 0.9rem;
+  margin-bottom: 0;
+}
+
+.nav-link {
+  color: #fb7d79;
+}
+.nav-link:focus,
+.nav-link:hover {
+  color: #f7b46b;
+}
+
+.nav-link.active {
+  color: #f7b46b;
+}
+
+.blog-header {
+  margin-bottom: 0;
+  border: 0;
+}
+
+.blog-main {
+  padding-top: 2rem;
+  border-radius: 0.25rem;
+  margin-bottom: 2rem;
+  border: 1px solid #e5e5e5;
+}
+
+.sidebar-module-inset {
+  background-color: #e6dbd7;
+  border: 1px solid #e5e5e5;
+}
+
+.blog-post-meta {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.blog-main {
+  background-color: #f9f9f9;
+}
+
+a {
+  color: #5da6f5;
+}
+
+.profile-img{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+footer h4{
+  display: none;
+}
