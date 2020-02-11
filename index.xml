@@ -6,10 +6,21 @@
     <description>Recent content on ほっとぴぴ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp-ja</language>
-    <lastBuildDate>Mon, 10 Feb 2020 00:22:06 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2020 02:02:05 +0900</lastBuildDate>
     
 	<atom:link href="https://hotpipi.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>じゃんけんに満足できないので殴り合いするゲーム</title>
+      <link>https://hotpipi.com/post/20200212/</link>
+      <pubDate>Wed, 12 Feb 2020 02:02:05 +0900</pubDate>
+      
+      <guid>https://hotpipi.com/post/20200212/</guid>
+      <description>こんにちは。ななつきです。
+今日は交互に殴り合えるようにしました。
+前回宣言通り じゃんけんに満足できないので殴り合いするゲーム です。殴り合ったところで、固定ダメージにしてあるため結果は変わらないのですが。</description>
+    </item>
     
     <item>
       <title>じゃんけんで勝ったら一方的にボコるゲーム</title>
