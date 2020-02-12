@@ -29,7 +29,7 @@
   "@type": "BlogPosting",
   "headline": "HPバーを表示",
   "url": "https:\/\/hotpipi.com\/post\/20200212-2\/",
-  "wordCount": "36",
+  "wordCount": "43",
   "datePublished": "2020-02-12T22:52:11+09:00",
   "dateModified": "2020-02-12T22:52:11+09:00",
   "author": {
@@ -126,7 +126,13 @@
 <p><img src="./2020-02-12-05.png" alt=""></p>
 <h2 id="heading-1">どんな実装か</h2>
 <p>sliderを使っただけのシンプルな実装です。</p>
-<p><code>Slider</code> を追加し <code>Handle Slide Area</code> を削除。 <code>Fill Area</code> と <code>Fill</code> の <code>Left</code> と <code>Right</code> を <code>0</code> に書き換える。それだけでバーは完成です。色とか高さは好みで調整しました。</p>
+<ol>
+<li><code>Slider</code> を追加</li>
+<li><code>Handle Slide Area</code> を削除</li>
+<li><code>Fill Area</code> と <code>Fill</code> の <code>Left</code> と <code>Right</code> を <code>0</code> に書き換える</li>
+<li>Sliderの <code>Interactable</code> を <code>OFF</code> にする ※これを設定しないとユーザーがバーを操作できてしまいます。
+それだけでバーは完成です。色とか高さは好みで調整しました。</li>
+</ol>
 <p>後は、 Scriptで <code>Slider</code> の <code>MaxValue</code> と <code>Value</code> を設定すると、思い通りに表示できます。</p>
 <h2 id="heading-2">次回予告</h2>
 <p>次こそは、今回作成したバーを使って <code>時間経過で、ターンを自動終了させる</code> を進めていきます。</p>
