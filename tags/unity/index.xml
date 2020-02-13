@@ -6,10 +6,21 @@
     <description>Recent content in Unity on ほっとぴぴ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp-ja</language>
-    <lastBuildDate>Wed, 12 Feb 2020 22:52:11 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2020 22:00:00 +0900</lastBuildDate>
     
 	<atom:link href="https://hotpipi.com/tags/unity/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>時間経過で、ターンを自動終了させる</title>
+      <link>https://hotpipi.com/post/20200213/</link>
+      <pubDate>Thu, 13 Feb 2020 22:00:00 +0900</pubDate>
+      
+      <guid>https://hotpipi.com/post/20200213/</guid>
+      <description>こんにちは。ななつきです。
+予告通り 時間経過で、ターンを自動終了させる を実装しました！
+画面の様子 じゃんけんのとき カード（？）ゲームのとき どんな実装か 色は変更していますが、前回の HPバーを表示 のバーを使い回しました。this.</description>
+    </item>
     
     <item>
       <title>HPバーを表示</title>
