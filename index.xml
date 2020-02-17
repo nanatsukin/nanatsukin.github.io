@@ -13,25 +13,22 @@
     
     <item>
       <title>カードを扇形に配置！手札のUI作成</title>
-      <link>https://hotpipi.com/post/20120217/</link>
+      <link>https://hotpipi.com/post/20200217/</link>
       <pubDate>Mon, 17 Feb 2020 22:51:36 +0900</pubDate>
       
-      <guid>https://hotpipi.com/post/20120217/</guid>
+      <guid>https://hotpipi.com/post/20200217/</guid>
       <description>こんにちは。ななつきです。
-今回は、カードを扇形に表示します。
-画面の様子 どんな実装か 配置自体はこちらの記事を参考にしたので、詳細は省略します。計算とか考えずに済んだので大変助かりました。</description>
+今回は、カードを扇形に表示します。</description>
     </item>
     
     <item>
       <title>どんなゲームを作るかまとめ！</title>
-      <link>https://hotpipi.com/post/20120215/</link>
+      <link>https://hotpipi.com/post/20200215/</link>
       <pubDate>Sat, 15 Feb 2020 22:00:00 +0900</pubDate>
       
-      <guid>https://hotpipi.com/post/20120215/</guid>
+      <guid>https://hotpipi.com/post/20200215/</guid>
       <description>こんにちは。ななつきです。
-さて。今日は、どのようなゲームを作ろうと思っているか。どういうタスクがあるのかをまとめたいと思います。
-どんなゲームを作るのか ドミニオンな雰囲気の処理をしつつ、敵のHPを削っていくゲームを考えています。
-大雑把にルールを考えたので、いったんそれで実装し、実際にプレイしつつルールを変更していこうと思っています。なので、次に記載するのは暫定ルールです。</description>
+さて。今日は、どのようなゲームを作ろうと思っているか。どういうタスクがあるのかをまとめたいと思います。</description>
     </item>
     
     <item>
@@ -41,8 +38,7 @@
       
       <guid>https://hotpipi.com/post/20200213/</guid>
       <description>こんにちは。ななつきです。
-予告通り 時間経過で、ターンを自動終了させる を実装しました！
-画面の様子 じゃんけんのとき カード（？）ゲームのとき どんな実装か 色は変更していますが、前回の HPバーを表示 のバーを使い回しました。this.</description>
+予告通り 時間経過で、ターンを自動終了させる を実装しました！</description>
     </item>
     
     <item>
@@ -52,8 +48,7 @@
       
       <guid>https://hotpipi.com/post/20200212-2/</guid>
       <description>こんにちは。ななつきです。
-次回予告の 時間経過で、ターンを自動終了させる をやろうとしたのですが、ターンの残り時間はバーで表示したいなと思ったので、事前準備としてHPバーを表示させました。
-画面の様子 どんな実装か sliderを使っただけのシンプルな実装です。</description>
+次回予告の 時間経過で、ターンを自動終了させる をやろうとしたのですが、ターンの残り時間はバーで表示したいなと思ったので、事前準備としてHPバーを表示させました。</description>
     </item>
     
     <item>
@@ -63,8 +58,7 @@
       
       <guid>https://hotpipi.com/post/20200212/</guid>
       <description>こんにちは。ななつきです。
-今日は交互に殴り合えるようにしました。
-前回宣言通り じゃんけんに満足できないので殴り合いするゲーム です。殴り合ったところで、固定ダメージにしてあるため結果は変わらないのですが。</description>
+今日は交互に殴り合えるようにしました。</description>
     </item>
     
     <item>
@@ -74,8 +68,7 @@
       
       <guid>https://hotpipi.com/post/20200210/</guid>
       <description>こんにちは。ななつきです。
-今日は以下二つを実装しました。
- プレイヤー名の入力 先攻・後攻をじゃんけんで決定する  その結果。 じゃんけんで勝ったら一方的にボコるゲーム が生み出されてしまいました。</description>
+今日は以下二つを実装しました。</description>
     </item>
     
     <item>
@@ -85,8 +78,7 @@
       
       <guid>https://hotpipi.com/post/hello/</guid>
       <description>はじめまして。ななつきです。
-最近、Flutterでアプリを作ったり、Unityでゲームを作ったりしています。 日々何をしてきたかの記録をつけたくなったのでブログを始めることにしました。
-しばらく作っていくもの カード（？）対戦ゲームを作っていきます。</description>
+最近、Flutterでアプリを作ったり、Unityでゲームを作ったりしています。 日々何をしてきたかの記録をつけたくなったのでブログを始めることにしました。</description>
     </item>
     
     <item>
@@ -95,9 +87,7 @@
       <pubDate>Sun, 09 Feb 2020 05:11:25 +0900</pubDate>
       
       <guid>https://hotpipi.com/app/</guid>
-      <description>あと、いくつ 食材の在庫をシンプルに管理！
-食材を買い忘れたり、期限を切らしがち。食材を管理したいけど一つ一つ入力するのは少し面倒。そんなときは「あと、いくつ」をお使いください。一度設定するだけで、食材の補充や消費 、買い物リストへの追加をワンボタンで行えます。
-  </description>
+      <description>あと、いくつ 食材の在庫をシンプルに管理！</description>
     </item>
     
   </channel>
